@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Lift Hero": {
+            "applicationId": "OplDrjq7puJwDbkOVVTqV65ybrQdId7pMKVemTPo", 
+            "masterKey": "mLmoG1elahJExyi4dyR0Rh76DoiQbv7dHvgQyFUf"
+        }, 
+        "_default": {
+            "link": "Lift Hero"
+        }
+    }
+}
